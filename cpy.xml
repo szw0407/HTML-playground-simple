@@ -1,0 +1,80 @@
+<hr>
+<h1 style="text-align: center">Welcome to my website</h1>
+<hr>
+<table width="100%" border="0">
+    <tbody>
+        <tr>
+            <td colspan="5"><em><strong style="font-size: xx-large">一 个 用 来 应 付 的 网 址 导 航</strong></em></td>
+            <td width="7%"><a href="index.html">关于</a></td>
+            <td colspan="2">
+                <table width="100%" border="0">
+                    <tbody>
+                        <tr>
+                            <td width="30%"><button>注册</button></td>
+                            <td width="10%">&nbsp;</td>
+                            <td width="10%">&nbsp;</td>
+                            <td width="10%">&nbsp;</td>
+                            <td width="10%">&nbsp;</td>
+                            <td width="30%"><button>登录</button></td>
+                        </tr>
+                    </tbody>
+                </table>
+            </td>
+        </tr>
+        <tr>
+            <td width="20%">搜索引擎</td>
+            <td width="15%"><a href="https://www.baidu.com">百度</a></td>
+            <td width="15%"><a href="https://cn.bing.com">必应中国</a></td>
+            <td width="15%"><a href="http://www.google.cn">谷歌中国</a></td>
+            <td width="15%"><a href="https://www.so.com">360搜索</a></td>
+            <td colspan="3"><a href="https://www.sogou.com">搜狗</a></td>
+        </tr>
+        <tr>
+            <td>中文技术论坛网站</td>
+            <td width="15%"><a href="https://www.csdn.net">CSDN</a></td>
+            <td><a href="https://juejin.cn">稀土掘金</a></td>
+            <td><a href="https://www.cnblogs.com/">博客园</a></td>
+            <td><a href="https://segmentfault.com/">思否</a></td>
+            <td colspan="3"><a href="https://www.oschina.net/project/osc">开源中国</a></td>
+        </tr>
+        <tr>
+            <td>技术文档网站</td>
+            <td width="15%"><a href="https://developer.ibm.com/">IBM Dev</a></td>
+            <td><a href="https://docs.microsoft.com/zh-cn/documentation/">MSDN</a></td>
+            <td><a href="https://www.w3.org/">W3C</a></td>
+            <td><a href="https://developer.mozilla.org/zh-CN/">MDN</a></td>
+            <td colspan="3"><a href="https://devdocs.io/">DevDocs</a></td>
+        </tr>
+        <tr>
+            <td>国际技术网站</td>
+            <td width="15%"><a href="https://stackoverflow.co/">Stack Overflow</a></td>
+            <td><a href="https://github.com">GitHub</a></td>
+            <td><a href="https://dzone.com">DZone</a></td>
+            <td><a href="https://bytes.com">Bytes</a></td>
+            <td colspan="3"><a href="https://www.hongkiat.com/blog/design-dev">hongkiat</a></td>
+        </tr>
+        <tr>
+            <td rowspan="2">菜鸟在线工具</td>
+            <td width="15%"><a href="https://c.runoob.com/compile/9/">Python</a></td>
+            <td><a href="https://c.runoob.com/compile/22/">node.js</a></td>
+            <td><a href="https://c.runoob.com/compile/11/">C</a></td>
+            <td><a href="https://c.runoob.com/compile/12/">C++</a></td>
+            <td colspan="3"><a href="https://c.runoob.com/compile/10/">Java</a></td>
+        </tr>
+        <tr>
+            <td width="15%"><a href="https://c.runoob.com/compile/21/">go</a></td>
+            <td><a href="https://c.runoob.com/compile/2960/">kotlin</a></td>
+            <td><a href="https://c.runoob.com/compile/5648/">VB.net</a></td>
+            <td><a href="https://c.runoob.com/compile/1/">PHP</a></td>
+            <td colspan="3"><a href="https://c.runoob.com/">More</a></td>
+        </tr>
+        <tr>
+            <td style="font-size: x-small">本HTML由Adobe Dreamweaver&nbsp; 制作</td>
+            <td colspan="4">申明：以上链接到的网站任何内容与本站无关。本网站仅供业余爱好者交流学习使用。&nbsp;</td>
+            <td>© NULL</td>
+            <td width="6%">2022</td>
+            <td width="6%"><input type="button" name="close" value="关闭" onclick="window.close();" /></td>
+        </tr>
+    </tbody>
+</table>
+<p style="text-align: left">&nbsp;</p>
